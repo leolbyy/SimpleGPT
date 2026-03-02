@@ -20,7 +20,6 @@ python -m scripts.base_eval \
     --max-per-task=16 \
     --model-tag=d6
 
-# # midtraining (~10 minutes on my MacBook Pro M3 Max)
 # python -m scripts.mid_train \
 #     --device-batch-size=32 \
 #     --tokens-per-step=16384 \
