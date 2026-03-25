@@ -6,6 +6,9 @@ This repository is a personal, line-by-line replication of Andrej Karpathy's [na
 
 Rather than just copying the code, I used this project to learn and rewrite core infrastructure components from the ground up, specifically targeting distributed memory management, hardware-aware attention, and high-throughput inference.
 
+## **🧩 Model Structure**
+![Model Structure](./images/SimpleGPT.png "Model Structure")
+
 ## **📊 Training Log**
 ![Training Log with validation loss, train loss, and core metric](./images/base_train_log.png "Training Log")
 
